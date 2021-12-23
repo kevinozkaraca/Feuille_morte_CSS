@@ -1,6 +1,6 @@
 ### Premier projet HTML / CSS 
 <p align="center">
-  <img align="center" href="https://kevinozkaraca.github.io/Feuille_morte_CSS/" target="_blank" width="80%" alt="Feuille morte" src="exemple.png"/>
+  <img align="center" width="80%" alt="projet feuille morte" src="exemple.png"/>
 </p>
 <br/>
 
